@@ -1,0 +1,1133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+  <data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<tv id="1">
+		<tvName>4UTV</tvName>
+		<tvLogo>https://i.imgur.com/PexhKwp.png</tvLogo>
+		<videoUrl>https://hls.4utv.live/hls/stream.m3u8</videoUrl>
+	</tv>
+	<tv id="2">
+		<tvName>24TV</tvName>
+		<tvLogo>https://i.imgur.com/8FO41es.png</tvLogo>
+		<videoUrl>https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="3">
+		<tvName>360</tvName>
+		<tvLogo>https://i.imgur.com/agn47sQ.png</tvLogo>
+		<videoUrl>https://turkmedya-live.ercdn.net/tv360/tv360.m3u8</videoUrl>
+	</tv>
+	<tv id="4">
+		<tvName>AHaber</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png</tvLogo>
+		<videoUrl>https://ythls.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8</videoUrl>
+	</tv>
+	<tv id="5">
+		<tvName>ANews</tvName>
+		<tvLogo>https://i.imgur.com/6tWCzTp.png</tvLogo>
+		<videoUrl>https://ythls.onrender.com/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8</videoUrl>
+	</tv>
+	<tv id="6">
+		<tvName>APara</tvName>
+		<tvLogo>https://i.imgur.com/GjHnq0c.png</tvLogo>
+		<videoUrl>https://ythls.onrender.com/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8</videoUrl>
+	</tv>
+	<tv id="7">
+		<tvName>ASpor</tvName>
+		<tvLogo>https://i.imgur.com/ZhkZzLf.png</tvLogo>
+		<videoUrl>https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8</videoUrl>
+	</tv>
+	<tv id="8">
+		<tvName>ATurk</tvName>
+		<tvLogo>https://i.imgur.com/je5wQ3G.png</tvLogo>
+		<videoUrl>https://vdo.digitalbox.xyz:3807/stream/play.m3u8</videoUrl>
+	</tv>
+	<tv id="9">
+		<tvName>AnadoluAgency</tvName>
+		<tvLogo>https://i.imgur.com/dWElJll.png</tvLogo>
+		<videoUrl>https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="10">
+		<tvName>AfyonTurkTV</tvName>
+		<tvLogo>https://i.ibb.co/tXbD8Sz/8A1HOMZ.png</tvLogo>
+		<videoUrl>https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="11">
+		<tvName>AgroTV</tvName>
+		<tvLogo>https://i.imgur.com/ls9NLa4.png</tvLogo>
+		<videoUrl>https://yayin30.haber100.com/live/agrotv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="12">
+		<tvName>AhiTV</tvName>
+		<tvLogo>https://i.imgur.com/5LIIZct.png</tvLogo>
+		<videoUrl>http://yayin3.canlitv.com:1935/canlitv/ahitv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="13">
+		<tvName>AkitTV</tvName>
+		<tvLogo>https://i.imgur.com/oGto929.png</tvLogo>
+		<videoUrl>https://akittv-live.ercdn.net/akittv/akittv.m3u8</videoUrl>
+	</tv>
+	<tv id="14">
+		<tvName>AksuTV</tvName>
+		<tvLogo>https://i.imgur.com/mgDCKiy.png</tvLogo>
+		<videoUrl>https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="15">
+		<tvName>AlHayatTV</tvName>
+		<tvLogo>https://i.imgur.com/M8ZuzeB.png</tvLogo>
+		<videoUrl>http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="16">
+		<tvName>AlQanat9</tvName>
+		<tvLogo>https://i.imgur.com/HC91Mho.png</tvLogo>
+		<videoUrl>https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8</videoUrl>
+	</tv>
+	<tv id="17">
+		<tvName>AlZahraTVTurkic</tvName>
+		<tvLogo>https://i.imgur.com/QEHKGnG.png</tvLogo>
+		<videoUrl>https://live.al-zahratv.com/live/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="18">
+		<tvName>AlanyaPostaTV</tvName>
+		<tvLogo>https://i.imgur.com/a3w9eFe.png</tvLogo>
+		<videoUrl>https://win4.yayin.com.tr/postatv/postatv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="19">
+		<tvName>AltasTV</tvName>
+		<tvLogo>https://i.imgur.com/XaJ7fp6.png</tvLogo>
+		<videoUrl>http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="20">
+		<tvName>AngelTVEurope</tvName>
+		<tvLogo>https://i.imgur.com/qKLEGU7.png</tvLogo>
+		<videoUrl>https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="21">
+		<tvName>ArasTV</tvName>
+		<tvLogo>https://i.imgur.com/JsDCyWG.png</tvLogo>
+		<videoUrl>http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="22">
+		<tvName>ATVAlanya</tvName>
+		<tvLogo>https://i.imgur.com/bUwarR0.png</tvLogo>
+		<videoUrl>http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="23">
+		<tvName>ATVAvrupa</tvName>
+		<tvLogo>https://i.imgur.com/0tm3tui.png</tvLogo>
+		<videoUrl>https://ythls.onrender.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8</videoUrl>
+	</tv>
+	<tv id="24">
+		<tvName>BBNTurk</tvName>
+		<tvLogo>https://www.lyngsat.com/logo/tv/bb/bbn-turk-tr.png</tvLogo>
+		<videoUrl>https://ythls.onrender.com/channel/UCqq-1-YntK4Gq53Ka9PaVlg.m3u8</videoUrl>
+	</tv>
+	<tv id="25">
+		<tvName>BenguturkTV</tvName>
+		<tvLogo>https://i.imgur.com/p3ON1oX.png</tvLogo>
+		<videoUrl>https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8</videoUrl>
+	</tv>
+	<tv id="26">
+		<tvName>BeratTV</tvName>
+		<tvLogo>https://i.imgur.com/BxxH8wE.png</tvLogo>
+		<videoUrl>https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="27">
+		<tvName>BesiktasWebTV</tvName>
+		<tvLogo>https://i.ibb.co/bRhnM6W/qti5aea.png</tvLogo>
+		<videoUrl>https://s01.vpis.io/besiktas/besiktas.m3u8</videoUrl>
+	</tv>
+	<tv id="28">
+		<tvName>BeyazTV</tvName>
+		<tvLogo>https://i.imgur.com/uykIdML.png</tvLogo>
+		<videoUrl>https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8</videoUrl>
+	</tv>
+	<tv id="29">
+		<tvName>BeykentTV</tvName>
+		<tvLogo>https://i.imgur.com/Zv65ns5.png</tvLogo>
+		<videoUrl>https://yayin30.haber100.com/live/beykenttv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="30">
+		<tvName>BizimevTV</tvName>
+		<tvLogo>https://i.imgur.com/eJa6sFY.png</tvLogo>
+		<videoUrl>https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="31">
+		<tvName>BloombergHT</tvName>
+		<tvLogo>https://i.imgur.com/bmkXfIE.png</tvLogo>
+		<videoUrl>https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8</videoUrl>
+	</tv>
+	<tv id="32">
+		<tvName>BloombergTVEMEALiveEvent</tvName>
+		<tvLogo>https://i.imgur.com/OuogLHx.png</tvLogo>
+		<videoUrl>https://bloomberg.com/media-manifest/streams/eu-event.m3u8</videoUrl>
+	</tv>
+	<tv id="33">
+		<tvName>BloombergTVEurope</tvName>
+		<tvLogo>https://i.imgur.com/U3qlEAp.png</tvLogo>
+		<videoUrl>https://bloomberg.com/media-manifest/streams/eu.m3u8</videoUrl>
+	</tv>
+	<tv id="34">
+		<tvName>BRTV</tvName>
+		<tvLogo>https://i.imgur.com/MCUjck8.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/brtv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="35">
+		<tvName>ASTV</tvName>
+		<tvLogo>https://i.imgur.com/9cl1MR8.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="36">
+		<tvName>BursaTV</tvName>
+		<tvLogo>https://www.lyngsat.com/logo/tv/bb/bursa_tv_tr.png</tvLogo>
+		<videoUrl>https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="37">
+		<tvName>CanTV</tvName>
+		<tvLogo>https://i.imgur.com/oIMtuwB.png</tvLogo>
+		<videoUrl>http://canbroadcast.com:7000/canlican/tv.m3u8</videoUrl>
+	</tv>
+	<tv id="38">
+		<tvName>CartoonNetworkArabic</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png</tvLogo>
+		<videoUrl>https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8</videoUrl>
+	</tv>
+	<tv id="39">
+		<tvName>CayTV</tvName>
+		<tvLogo>https://i.imgur.com/ndupxwu.png</tvLogo>
+		<videoUrl>http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8</videoUrl>
+	</tv>
+	<tv id="40">
+		<tvName>CBC</tvName>
+		<tvLogo>https://i.imgur.com/wVT0dwO.png</tvLogo>
+		<videoUrl>http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="41">
+		<tvName>CekmekoyTV</tvName>
+		<tvLogo>https://i.imgur.com/sjAGFWu.png</tvLogo>
+		<videoUrl>https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="42">
+		<tvName>CiftciTV</tvName>
+		<tvLogo>https://i.imgur.com/CLzP4vL.png</tvLogo>
+		<videoUrl>http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="43">
+		<tvName>Cine5</tvName>
+		<tvLogo>https://i.imgur.com/AmcOAIY.png</tvLogo>
+		<videoUrl>https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="44">
+		<tvName>CNBCEurope</tvName>
+		<tvLogo>https://i.imgur.com/B6sfpDa.png</tvLogo>
+		<videoUrl>http://ott-cdn.ucom.am/s65/index.m3u8</videoUrl>
+	</tv>
+	<tv id="45">
+		<tvName>CNNInternationalEurope</tvName>
+		<tvLogo>https://i.imgur.com/05S3yYZ.png</tvLogo>
+		<videoUrl>https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="46">
+		<tvName>CNNTurk</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png</tvLogo>
+		<videoUrl>https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="47">
+		<tvName>DehaTV</tvName>
+		<tvLogo>https://i.imgur.com/Dlsm9XP.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/dehatv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="48">
+		<tvName>DenizPostasiTV</tvName>
+		<tvLogo>https://i.imgur.com/Mm8hdfx.png</tvLogo>
+		<videoUrl>http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="49">
+		<tvName>Dersim62TV</tvName>
+		<tvLogo>https://i.imgur.com/wFTl8aQ.png</tvLogo>
+		<videoUrl>http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="50">
+		<tvName>DHA</tvName>
+		<tvLogo>https://i.imgur.com/VZhag2x.png</tvLogo>
+		<videoUrl>https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="51">
+		<tvName>DimTV</tvName>
+		<tvLogo>https://i.imgur.com/X4QFDhk.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="52">
+		<tvName>DiyanetTV</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png</tvLogo>
+		<videoUrl>https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="53">
+		<tvName>DiyarTV</tvName>
+		<tvLogo>https://i.imgur.com/qWkHjRA.png</tvLogo>
+		<videoUrl>http://51.210.199.28/hls/stream.m3u8</videoUrl>
+	</tv>
+	<tv id="54">
+		<tvName>DostTV</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/en/f/f6/Dost_TV.jpg</tvLogo>
+		<videoUrl>https://dost.stream.emsal.im/tv/live.m3u8</videoUrl>
+	</tv>
+	<tv id="55">
+		<tvName>DreamTurk</tvName>
+		<tvLogo>https://i.imgur.com/vJ8VaZi.png</tvLogo>
+		<videoUrl>https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="56">
+		<tvName>DRTDenizli</tvName>
+		<tvLogo>https://i.imgur.com/ZLX2RB7.png</tvLogo>
+		<videoUrl>https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="57">
+		<tvName>EbS</tvName>
+		<tvLogo>https://i.imgur.com/DIIRPNN.png</tvLogo>
+		<videoUrl>https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8</videoUrl>
+	</tv>
+	<tv id="58">
+		<tvName>EbSPlus</tvName>
+		<tvLogo>https://i.imgur.com/7V012zQ.png</tvLogo>
+		<videoUrl>https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8</videoUrl>
+	</tv>
+	<tv id="59">
+		<tvName>EdessaTV</tvName>
+		<tvLogo>https://i.imgur.com/rhU6j9I.png</tvLogo>
+		<videoUrl>https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8</videoUrl>
+	</tv>
+	<tv id="60">
+		<tvName>Ekoturk</tvName>
+		<tvLogo>https://i.imgur.com/TMTnMI3.png</tvLogo>
+		<videoUrl>https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8</videoUrl>
+	</tv>
+	<tv id="61">
+		<tvName>ElmasTV</tvName>
+		<tvLogo>https://i.imgur.com/czuCrzW.png</tvLogo>
+		<videoUrl>https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/chunklist.m3u8</videoUrl>
+	</tv>
+	<tv id="62">
+		<tvName>EmTV</tvName>
+		<tvLogo>https://i.imgur.com/pHlRi8m.jpg</tvLogo>
+		<videoUrl>https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="63">
+		<tvName>ERTV</tvName>
+		<tvLogo>https://i.imgur.com/VDGEPrD.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/ertv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="64">
+		<tvName>ErtSahTV</tvName>
+		<tvLogo>https://i.imgur.com/0cdpsdz.png</tvLogo>
+		<videoUrl>http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="65">
+		<tvName>ErzurumWebTV</tvName>
+		<tvLogo>https://i.imgur.com/HF7N4Li.png</tvLogo>
+		<videoUrl>https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8</videoUrl>
+	</tv>
+	<tv id="66">
+		<tvName>ESTV</tvName>
+		<tvLogo>https://i.imgur.com/epAEBrp.png</tvLogo>
+		<videoUrl>https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="67">
+		<tvName>ETVManisa</tvName>
+		<tvLogo>https://i.ibb.co/QKXtdkz/sOd3INg.png</tvLogo>
+		<videoUrl>https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="68">
+		<tvName>EuroD</tvName>
+		<tvLogo>https://i.imgur.com/x9kHsXo.png</tvLogo>
+		<videoUrl>https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="69">
+		<tvName>EuroStar</tvName>
+		<tvLogo>https://i.imgur.com/kb165Ot.png</tvLogo>
+		<videoUrl>https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8</videoUrl>
+	</tv>
+	<tv id="70">
+		<tvName>EWTNEurope</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png</tvLogo>
+		<videoUrl>https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="71">
+		<tvName>FalastiniTV</tvName>
+		<tvLogo>https://i.imgur.com/YPfPk9f.png</tvLogo>
+		<videoUrl>https://cdg8.edge.technocdn.com/palestiniantv_source/live/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="72">
+		<tvName>FashionTVEurope</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png</tvLogo>
+		<videoUrl>https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="73">
+		<tvName>FinansTurkTV</tvName>
+		<tvLogo>https://i.ibb.co/wBwmB1T/iY0osc7.png</tvLogo>
+		<videoUrl>http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="74">
+		<tvName>FlashTV</tvName>
+		<tvLogo>https://i.imgur.com/L0NHKBM.png</tvLogo>
+		<videoUrl>https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8</videoUrl>
+	</tv>
+	<tv id="75">
+		<tvName>FortunaTV</tvName>
+		<tvLogo>https://i.imgur.com/ZbUSlOC.png</tvLogo>
+		<videoUrl>https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="76">
+		<tvName>FoxTurkey</tvName>
+		<tvLogo>https://i.imgur.com/homSiDa.png</tvLogo>
+		<videoUrl>https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8</videoUrl>
+	</tv>
+	<tv id="77">
+		<tvName>GoncaTV</tvName>
+		<tvLogo>https://i.imgur.com/TwqIJwo.png</tvLogo>
+		<videoUrl>https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="78">
+		<tvName>GRT</tvName>
+		<tvLogo>https://i.imgur.com/eRR0gkC.png</tvLogo>
+		<videoUrl>http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="79">
+		<tvName>GSTV</tvName>
+		<tvLogo>https://i.imgur.com/fC3KuwT.jpg</tvLogo>
+		<videoUrl>https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="80">
+		<tvName>GuneyTVTarsus</tvName>
+		<tvLogo>https://i.imgur.com/solQ9nj.png</tvLogo>
+		<videoUrl>http://stream2.taksimbilisim.com:1935/tarsusguneytv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="81">
+		<tvName>GuneydoguTV</tvName>
+		<tvLogo>https://i.imgur.com/JT5pp3Y.png</tvLogo>
+		<videoUrl>https://broadcasttr.com:446/gtv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="82">
+		<tvName>Haber61TV</tvName>
+		<tvLogo>https://i.imgur.com/2a2XUKl.png</tvLogo>
+		<videoUrl>https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8</videoUrl>
+	</tv>
+	<tv id="83">
+		<tvName>HaberGlobal</tvName>
+		<tvLogo>https://i.imgur.com/fu6XeGS.png</tvLogo>
+		<videoUrl>https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8</videoUrl>
+	</tv>
+	<tv id="84">
+		<tvName>Haberturk</tvName>
+		<tvLogo>https://i.imgur.com/sUFh3Qr.png</tvLogo>
+		<videoUrl>https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8</videoUrl>
+	</tv>
+	<tv id="85">
+		<tvName>HalkTV</tvName>
+		<tvLogo>https://i.imgur.com/xM0HA30.png</tvLogo>
+		<videoUrl>https://halktv.blutv.com/blutv_halktv_live/live.m3u8</videoUrl>
+	</tv>
+	<tv id="86">
+		<tvName>HunatTV</tvName>
+		<tvLogo>https://i.imgur.com/NrxHGnb.png</tvLogo>
+		<videoUrl>https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="87">
+		<tvName>IBBTV</tvName>
+		<tvLogo>https://i.imgur.com/aXxAz84.png</tvLogo>
+		<videoUrl>http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="88">
+		<tvName>IcelTV</tvName>
+		<tvLogo>https://i.imgur.com/CGwImKv.png</tvLogo>
+		<videoUrl>http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="89">
+		<tvName>Kanal3</tvName>
+		<tvLogo>https://i.imgur.com/eXErSv0.png</tvLogo>
+		<videoUrl>http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="90">
+		<tvName>Kanal7</tvName>
+		<tvLogo>https://i.imgur.com/pxpLpnH.png</tvLogo>
+		<videoUrl>https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8</videoUrl>
+	</tv>
+	<tv id="91">
+		<tvName>Kanal7Avrupa</tvName>
+		<tvLogo>https://i.imgur.com/ggmwgiF.png</tvLogo>
+		<videoUrl>https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8</videoUrl>
+	</tv>
+	<tv id="92">
+		<tvName>Kanal12</tvName>
+		<tvLogo>https://i.imgur.com/51xCkXG.png</tvLogo>
+		<videoUrl>https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="93">
+		<tvName>Kanal15</tvName>
+		<tvLogo>https://i.imgur.com/wb1Cdc9.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/kanal15/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="94">
+		<tvName>Kanal23</tvName>
+		<tvLogo>https://i.imgur.com/3br8RCq.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/kanal23/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="95">
+		<tvName>Kanal26</tvName>
+		<tvLogo>https://i.imgur.com/Mr7XPii.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/kanal26/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="96">
+		<tvName>Kanal32</tvName>
+		<tvLogo>https://www.lyngsat.com/logo/tv/kk/kanal-32-tr.png</tvLogo>
+		<videoUrl>https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="97">
+		<tvName>Kanal33</tvName>
+		<tvLogo>https://i.imgur.com/5WYaoFZ.png</tvLogo>
+		<videoUrl>http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="98">
+		<tvName>Kanal34</tvName>
+		<tvLogo>https://i.imgur.com/SIaI6Sj.png</tvLogo>
+		<videoUrl>http://live.arkumedia.com:1935/kanal34tv/kanal34tv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="99">
+		<tvName>Kanal38</tvName>
+		<tvLogo>https://i.imgur.com/WvtZ7Xd.png</tvLogo>
+		<videoUrl>http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="100">
+		<tvName>KANAL58</tvName>
+		<tvLogo>https://i.imgur.com/Rgc66sv.png</tvLogo>
+		<videoUrl>https://broadcasttr.com:446/kanal58/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="101">
+		<tvName>Kanal68</tvName>
+		<tvLogo>https://i.imgur.com/5y7K9SS.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/kanal68/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="102">
+		<tvName>KanalTvO</tvName>
+		<tvLogo>https://i.imgur.com/bIGk6RN.png</tvLogo>
+		<videoUrl>https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="103">
+		<tvName>KanalAvrupa</tvName>
+		<tvLogo>https://i.imgur.com/bUsbxTQ.png</tvLogo>
+		<videoUrl>http://51.15.2.151/hls/kanalavrupa.m3u8</videoUrl>
+	</tv>
+	<tv id="104">
+		<tvName>KanalB</tvName>
+		<tvLogo>https://i.imgur.com/9o1atM6.png</tvLogo>
+		<videoUrl>http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8</videoUrl>
+	</tv>
+	<tv id="105">
+		<tvName>KanalD</tvName>
+		<tvLogo>https://i.imgur.com/3o8Rokp.png</tvLogo>
+		<videoUrl>https://demiroren-live.daioncdn.net/kanald/kanald.m3u8</videoUrl>
+	</tv>
+	<tv id="106">
+		<tvName>KanalFirat</tvName>
+		<tvLogo>https://i.imgur.com/eikZj19.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="107">
+		<tvName>KanalHayat</tvName>
+		<tvLogo>https://i.imgur.com/DN6gdg2.png</tvLogo>
+		<videoUrl>https://tbn02a.ltnschedule.com/hls/nx21i.m3u8</videoUrl>
+	</tv>
+	<tv id="108">
+		<tvName>KanalS</tvName>
+		<tvLogo>https://i.imgur.com/EvgQmoT.png</tvLogo>
+		<videoUrl>https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="109">
+		<tvName>KanalUrfa</tvName>
+		<tvLogo>https://kanalurfa.com/img/logo.png</tvLogo>
+		<videoUrl>https://broadcasttr.com:446/kanalurfa/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="110">
+		<tvName>KanalV</tvName>
+		<tvLogo>https://i.imgur.com/7RNjTno.png</tvLogo>
+		<videoUrl>http://yerelmedya.tv:1935/kanalv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="111">
+		<tvName>KanalZ</tvName>
+		<tvLogo>https://i.imgur.com/Kr8960d.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="112">
+		<tvName>KardelenTV</tvName>
+		<tvLogo>https://i.imgur.com/0RATxcN.png</tvLogo>
+		<videoUrl>https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="113">
+		<tvName>KayTV</tvName>
+		<tvLogo>https://i.imgur.com/MymuDJ1.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/kaytv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="114">
+		<tvName>KentTurk</tvName>
+		<tvLogo>https://i.imgur.com/FQKPjsm.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/38kenttv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="115">
+		<tvName>KonTV</tvName>
+		<tvLogo>https://i.imgur.com/ex67TP8.png</tvLogo>
+		<videoUrl>https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8</videoUrl>
+	</tv>
+	<tv id="116">
+		<tvName>KralPopTV</tvName>
+		<tvLogo>https://i.imgur.com/ch365lh.png</tvLogo>
+		<videoUrl>https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="117">
+		<tvName>KralTV</tvName>
+		<tvLogo>https://i.imgur.com/GeEDOPN.png</tvLogo>
+		<videoUrl>https://dogus-live.daioncdn.net/kraltv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="118">
+		<tvName>KRT</tvName>
+		<tvLogo>https://i.imgur.com/9ZKqdQJ.png</tvLogo>
+		<videoUrl>https://krt.blutv.com/blutv_krt_live/live.m3u8</videoUrl>
+	</tv>
+	<tv id="119">
+		<tvName>KudusTV</tvName>
+		<tvLogo>https://i.imgur.com/lwRA84B.png</tvLogo>
+		<videoUrl>https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="120">
+		<tvName>LalegulTV</tvName>
+		<tvLogo>https://i.imgur.com/wwCysFs.png</tvLogo>
+		<videoUrl>http://lalegultv.netmedya.net/hls/lalegultv.m3u8</videoUrl>
+	</tv>
+	<tv id="121">
+		<tvName>LifeTV</tvName>
+		<tvLogo>https://i.imgur.com/lWeJxm0.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="122">
+		<tvName>LineTV</tvName>
+		<tvLogo>https://i.imgur.com/6GNp7f8.png</tvLogo>
+		<videoUrl>https://broadcasttr.com:446/linetv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="123">
+		<tvName>MalatyaVuslatTV</tvName>
+		<tvLogo>https://i.imgur.com/FUaWv4s.png</tvLogo>
+		<videoUrl>https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="124">
+		<tvName>ManasTV</tvName>
+		<tvLogo>https://i.ibb.co/10FW1yf/manaslogo.png</tvLogo>
+		<videoUrl>http://212.42.111.136/hls/manas.m3u8</videoUrl>
+	</tv>
+	<tv id="125">
+		<tvName>MaviKaradenizTV</tvName>
+		<tvLogo>https://i.imgur.com/wyWappU.png</tvLogo>
+		<videoUrl>http://yerelmedya.tv:1935/mavikaradeniz/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="126">
+		<tvName>MedMuzik</tvName>
+		<tvLogo>https://i.imgur.com/gtUFmCD.png</tvLogo>
+		<videoUrl>http://137.74.205.201/medmuzik/MedStream/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="127">
+		<tvName>MedyaHaber</tvName>
+		<tvLogo>https://i.imgur.com/l1E2Pha.png</tvLogo>
+		<videoUrl>https://ythls.onrender.com/channel/UC_KlNwS1QQ9QMPRg9dGNHNw.m3u8</videoUrl>
+	</tv>
+	<tv id="128">
+		<tvName>MeltemTV</tvName>
+		<tvLogo>https://i.imgur.com/C3m6w5S.png</tvLogo>
+		<videoUrl>https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="129">
+		<tvName>MercanTV</tvName>
+		<tvLogo>https://i.imgur.com/3CWV8bS.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="130">
+		<tvName>MilyonTV</tvName>
+		<tvLogo>https://i.imgur.com/lEIFDwo.png</tvLogo>
+		<videoUrl>https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8</videoUrl>
+	</tv>
+	<tv id="131">
+		<tvName>MinikaGo</tvName>
+		<tvLogo>https://i.imgur.com/qIoipDq.png</tvLogo>
+		<videoUrl>https://ythls.onrender.com/channel/UCVbCXWXWd0WCNhdBnmP_TmA.m3u8</videoUrl>
+	</tv>
+	<tv id="132">
+		<tvName>MTurkTV</tvName>
+		<tvLogo>https://i.imgur.com/xj1gvrq.png</tvLogo>
+		<videoUrl>https://broadcasttr.com:446/muglaturk/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="133">
+		<tvName>NaturalTV</tvName>
+		<tvLogo>https://i.imgur.com/rfcJ674.png</tvLogo>
+		<videoUrl>http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="134">
+		<tvName>NTV</tvName>
+		<tvLogo>https://i.imgur.com/jXbs8FZ.png</tvLogo>
+		<videoUrl>https://dogus-live.daioncdn.net/ntv/ntv.m3u8</videoUrl>
+	</tv>
+	<tv id="135">
+		<tvName>NTVSpor</tvName>
+		<tvLogo>https://i.imgur.com/5pvsIsL.png</tvLogo>
+		<videoUrl>http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="136">
+		<tvName>Number1Ask</tvName>
+		<tvLogo>https://i.imgur.com/slwbux7.png</tvLogo>
+		<videoUrl>https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="137">
+		<tvName>Number1Damar</tvName>
+		<tvLogo>https://i.imgur.com/rYtbAGZ.png</tvLogo>
+		<videoUrl>https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="138">
+		<tvName>Number1Dance</tvName>
+		<tvLogo>https://i.imgur.com/ZM4PSyq.png</tvLogo>
+		<videoUrl>https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="139">
+		<tvName>Number1Turk</tvName>
+		<tvLogo>https://www.anten.de/wp-content/uploads/2015/01/nr1tv.jpg</tvLogo>
+		<videoUrl>https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8</videoUrl>
+	</tv>
+	<tv id="140">
+		<tvName>Number1TV</tvName>
+		<tvLogo>https://i.imgur.com/18zjk3q.png</tvLogo>
+		<videoUrl>https://mn-nl.mncdn.com/blutv_nr12/live.m3u8</videoUrl>
+	</tv>
+	<tv id="141">
+		<tvName>OlayTurkTV</tvName>
+		<tvLogo>https://i.imgur.com/02cDIBi.png</tvLogo>
+		<videoUrl>https://s01.vpis.io/ogun/ogun.m3u8</videoUrl>
+	</tv>
+	<tv id="142">
+		<tvName>On4TV</tvName>
+		<tvLogo>https://i.imgur.com/e9ca6gc.png</tvLogo>
+		<videoUrl>http://waw1.artiyerelmedya.net:1935/olayturk/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="143">
+		<tvName>On6</tvName>
+		<tvLogo>https://i.imgur.com/qGRa1KI.png</tvLogo>
+		<videoUrl>https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="144">
+		<tvName>OnMedyaTV</tvName>
+		<tvLogo>https://i.imgur.com/k7rS2gC.png</tvLogo>
+		<videoUrl>https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="145">
+		<tvName>MarmaraTV</tvName>
+		<tvLogo>https://i.imgur.com/thvk3Py.png</tvLogo>
+		<videoUrl>http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="146">
+		<tvName>OncuTV</tvName>
+		<tvLogo>https://i.imgur.com/TGPNYrD.jpg</tvLogo>
+		<videoUrl>https://broadcasttr.com:446/oncurtv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="147">
+		<tvName>PamukkaleTV</tvName>
+		<tvLogo>https://i.imgur.com/8fHgTIr.png</tvLogo>
+		<videoUrl>http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="148">
+		<tvName>PMC</tvName>
+		<tvLogo>https://i.imgur.com/AbrHI7K.png</tvLogo>
+		<videoUrl>https://hls.pmchd.live/hls/stream.m3u8</videoUrl>
+	</tv>
+	<tv id="149">
+		<tvName>PMCRoyale</tvName>
+		<tvLogo>https://i.imgur.com/kuYMKgG.png</tvLogo>
+		<videoUrl>http://51.210.199.29/hls/stream.m3u8</videoUrl>
+	</tv>
+	<tv id="150">
+		<tvName>PowerDance</tvName>
+		<tvLogo>https://i.imgur.com/QpPteBO.png</tvLogo>
+		<videoUrl>https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="151">
+		<tvName>PowerLove</tvName>
+		<tvLogo>https://i.imgur.com/0RzUswR.png</tvLogo>
+		<videoUrl>https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="152">
+		<tvName>PowerPlus</tvName>
+		<tvLogo>https://i.imgur.com/susAPo6.png</tvLogo>
+		<videoUrl>https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="153">
+		<tvName>PowerTurkTV</tvName>
+		<tvLogo>https://i.imgur.com/9OPoXQG.png</tvLogo>
+		<videoUrl>https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="154">
+		<tvName>PowerTurkAkustik</tvName>
+		<tvLogo>https://i.imgur.com/driabBO.png</tvLogo>
+		<videoUrl>https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="155">
+		<tvName>PowerTurkEnIyiler</tvName>
+		<tvLogo>https://i.imgur.com/CM2Z9lg.png</tvLogo>
+		<videoUrl>https://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="156">
+		<tvName>PowerTurkSlow</tvName>
+		<tvLogo>https://i.imgur.com/tQSoQXW.png</tvLogo>
+		<videoUrl>https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="157">
+		<tvName>PowerTurkTaptaze</tvName>
+		<tvLogo>https://i.imgur.com/a5nW3HU.png</tvLogo>
+		<videoUrl>https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="158">
+		<tvName>PowerTV</tvName>
+		<tvLogo>https://i.imgur.com/XSL1gd7.png</tvLogo>
+		<videoUrl>https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="159">
+		<tvName>QafTV</tvName>
+		<tvLogo>https://i.imgur.com/hrk7Uce.png</tvLogo>
+		<videoUrl>https://mn-nl.mncdn.com/qaf/live/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="160">
+		<tvName>RehberTV</tvName>
+		<tvLogo>https://i.imgur.com/fpkaw78.png</tvLogo>
+		<videoUrl>https://yayin30.haber100.com/live/rehbertv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="161">
+		<tvName>SariyerTV</tvName>
+		<tvLogo>https://i.imgur.com/lfHVabz.png</tvLogo>
+		<videoUrl>https://s01.vpis.io/sariyer/sariyer.m3u8</videoUrl>
+	</tv>
+	<tv id="162">
+		<tvName>Sat7Turk</tvName>
+		<tvLogo>https://i.imgur.com/cKQIK4i.png</tvLogo>
+		<videoUrl>https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="163">
+		<tvName>BricveSatrancTV</tvName>
+		<tvLogo>https://i.imgur.com/TXDV1ty.png</tvLogo>
+		<videoUrl>http://139.162.182.79/live/test/index.m3u8</videoUrl>
+	</tv>
+	<tv id="164">
+		<tvName>SemerkandTV</tvName>
+		<tvLogo>https://i.imgur.com/UVGGrQd.png</tvLogo>
+		<videoUrl>https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="165">
+		<tvName>ShowTurk</tvName>
+		<tvLogo>https://i.imgur.com/NM2eYgs.png</tvLogo>
+		<videoUrl>https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8</videoUrl>
+	</tv>
+	<tv id="166">
+		<tvName>ShowTV</tvName>
+		<tvLogo>https://i.imgur.com/1l7SCCu.png</tvLogo>
+		<videoUrl>https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8</videoUrl>
+	</tv>
+	<tv id="167">
+		<tvName>SinopYildizTV</tvName>
+		<tvLogo>https://i.imgur.com/CjgbQTk.png</tvLogo>
+		<videoUrl>https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8</videoUrl>
+	</tv>
+	<tv id="168">
+		<tvName>Sozcu</tvName>
+		<tvLogo>https://i.imgur.com/tGTVcVe.jpg</tvLogo>
+		<videoUrl>https://ythls.onrender.com/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8</videoUrl>
+	</tv>
+	<tv id="169">
+		<tvName>SportsTV</tvName>
+		<tvLogo>https://hdprotek.com.tr/images/customers/sportstv.png</tvLogo>
+		<videoUrl>https://live.sportstv.com.tr/hls/low/sportstv.m3u8</videoUrl>
+	</tv>
+	<tv id="170">
+		<tvName>StarTV</tvName>
+		<tvLogo>https://i.imgur.com/9O3DHRB.png</tvLogo>
+		<videoUrl>https://dogus-live.daioncdn.net/startv/startv.m3u8</videoUrl>
+	</tv>
+	<tv id="171">
+		<tvName>SunRTV</tvName>
+		<tvLogo>https://i.imgur.com/64tph9N.png</tvLogo>
+		<videoUrl>https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8</videoUrl>
+	</tv>
+	<tv id="172">
+		<tvName>SyriaTV</tvName>
+		<tvLogo>https://i.imgur.com/RMaLsmi.png</tvLogo>
+		<videoUrl>https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8</videoUrl>
+	</tv>
+	<tv id="173">
+		<tvName>TarimTV</tvName>
+		<tvLogo>https://i.imgur.com/q30sFms.png</tvLogo>
+		<videoUrl>https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8</videoUrl>
+	</tv>
+	<tv id="174">
+		<tvName>TatlisesTV</tvName>
+		<tvLogo>https://i.imgur.com/et1sbyq.png</tvLogo>
+		<videoUrl>https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="175">
+		<tvName>TBMMTV</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png</tvLogo>
+		<videoUrl>https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8</videoUrl>
+	</tv>
+	<tv id="176">
+		<tvName>TekRumeliTV</tvName>
+		<tvLogo>https://i.imgur.com/skeNzbc.png</tvLogo>
+		<videoUrl>https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="177">
+		<tvName>Tele1</tvName>
+		<tvLogo>https://i.imgur.com/joaI9wV.png</tvLogo>
+		<videoUrl>https://ythls.onrender.com/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8</videoUrl>
+	</tv>
+	<tv id="178">
+		<tvName>TempoTV</tvName>
+		<tvLogo>https://i.imgur.com/6w3ecR7.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/tempotv/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="179">
+		<tvName>Teve2</tvName>
+		<tvLogo>https://i.imgur.com/rsoSLih.png</tvLogo>
+		<videoUrl>https://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8</videoUrl>
+	</tv>
+	<tv id="180">
+		<tvName>TGRTBelgesel</tvName>
+		<tvLogo>https://i.imgur.com/VwWTnf0.png</tvLogo>
+		<videoUrl>https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="181">
+		<tvName>TGRTEU</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png</tvLogo>
+		<videoUrl>https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8</videoUrl>
+	</tv>
+	<tv id="182">
+		<tvName>TGRTHaber</tvName>
+		<tvLogo>https://i.imgur.com/PrxwKDw.png</tvLogo>
+		<videoUrl>https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="183">
+		<tvName>Tivi6</tvName>
+		<tvLogo>https://i.imgur.com/Mbi0jbz.png</tvLogo>
+		<videoUrl>https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="184">
+		<tvName>TlnovelasEuropa</tvName>
+		<tvLogo>https://i.imgur.com/8AKW7Uu.png</tvLogo>
+		<videoUrl>https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="185">
+		<tvName>TonTV</tvName>
+		<tvLogo>https://i.imgur.com/f0Soeob.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/tontv/bant1/chunks.m3u8</videoUrl>
+	</tv>
+	<tv id="186">
+		<tvName>ToprakTV</tvName>
+		<tvLogo>https://i.imgur.com/JGnS0qs.png</tvLogo>
+		<videoUrl>https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="187">
+		<tvName>TorbaTV</tvName>
+		<tvLogo>https://www.flysat-live.com/logo/KKTC/torbatv.png</tvLogo>
+		<videoUrl>https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="188">
+		<tvName>TRT1</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png</tvLogo>
+		<videoUrl>http://tv-trt1-persona-live.medya.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="189">
+		<tvName>TRT2</tvName>
+		<tvLogo>https://i.imgur.com/iOCQdyD.png</tvLogo>
+		<videoUrl>https://tv-trt2.medya.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="190">
+		<tvName>TRTAvaz</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png</tvLogo>
+		<videoUrl>https://tv-trtavaz.medya.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="191">
+		<tvName>TRTBelgesel</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png</tvLogo>
+		<videoUrl>https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="192">
+		<tvName>TRTCocuk</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png</tvLogo>
+		<videoUrl>https://tv-trtcocuk.live.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="193">
+		<tvName>TRTEBAIlkokul</tvName>
+		<tvLogo>https://i.imgur.com/IUha5eQ.jpg</tvLogo>
+		<videoUrl>https://tv-e-okul00.medya.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="194">
+		<tvName>TRTEBALise</tvName>
+		<tvLogo>https://www.ecanlitvizle.video/logo/trt-eba-tv-lise-canli.png</tvLogo>
+		<videoUrl>https://tv-e-okul02.medya.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="195">
+		<tvName>TRTEBAOrtaokul</tvName>
+		<tvLogo>https://www.ecanlitvizle.video/logo/trt-eba-tv-ortaokul-canli.png</tvLogo>
+		<videoUrl>https://tv-e-okul01.medya.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="196">
+		<tvName>TRTHaber</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png</tvLogo>
+		<videoUrl>https://tv-trthaber.medya.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="197">
+		<tvName>TRTKurdi</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png</tvLogo>
+		<videoUrl>https://tv-trtkurdi.medya.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="198">
+		<tvName>TRTMuzik</tvName>
+		<tvLogo>https://i.imgur.com/JgUzRH8.png</tvLogo>
+		<videoUrl>https://tv-trtmuzik.medya.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="199">
+		<tvName>TRTSpor</tvName>
+		<tvLogo>https://i.imgur.com/pCjzh5A.png</tvLogo>
+		<videoUrl>https://tv-trtspor1.medya.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="200">
+		<tvName>TRTSporYildiz</tvName>
+		<tvLogo>https://i.imgur.com/MJPoj3j.png</tvLogo>
+		<videoUrl>https://tv-trtspor2.medya.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="201">
+		<tvName>TRTTurk</tvName>
+		<tvLogo>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png</tvLogo>
+		<videoUrl>https://tv-trtturk.medya.trt.com.tr/master.m3u8</videoUrl>
+	</tv>
+	<tv id="202">
+		<tvName>TurkHaber</tvName>
+		<tvLogo>https://i.imgur.com/2AcRKdL.png</tvLogo>
+		<videoUrl>https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="203">
+		<tvName>TV1</tvName>
+		<tvLogo>https://i.imgur.com/8CtrYVb.png</tvLogo>
+		<videoUrl>https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="204">
+		<tvName>TV4</tvName>
+		<tvLogo>https://i.imgur.com/UpsQsbd.png</tvLogo>
+		<videoUrl>https://turkmedya-live.ercdn.net/tv4/tv4.m3u8</videoUrl>
+	</tv>
+	<tv id="205">
+		<tvName>TV5MondeEurope</tvName>
+		<tvLogo>https://i.imgur.com/rPAbMSu.png</tvLogo>
+		<videoUrl>https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8</videoUrl>
+	</tv>
+	<tv id="206">
+		<tvName>TV8</tvName>
+		<tvLogo>https://i.imgur.com/DKNwiDm.png</tvLogo>
+		<videoUrl>https://tv8-live.daioncdn.net/tv8/tv8.m3u8</videoUrl>
+	</tv>
+	<tv id="207">
+		<tvName>TV38</tvName>
+		<tvLogo>https://i.imgur.com/KDBXLqn.png</tvLogo>
+		<videoUrl>https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="208">
+		<tvName>TV41</tvName>
+		<tvLogo>https://i.imgur.com/6T472LM.png</tvLogo>
+		<videoUrl>http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="209">
+		<tvName>TV52</tvName>
+		<tvLogo>https://i.imgur.com/k4R5CzO.png</tvLogo>
+		<videoUrl>http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="210">
+		<tvName>TV100</tvName>
+		<tvLogo>https://i.imgur.com/ZvjuVGh.png</tvLogo>
+		<videoUrl>https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8</videoUrl>
+	</tv>
+	<tv id="211">
+		<tvName>TV264</tvName>
+		<tvLogo>https://i.imgur.com/tudXdOZ.png</tvLogo>
+		<videoUrl>https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="212">
+		<tvName>TVDen</tvName>
+		<tvLogo>https://i.imgur.com/Uhg95Ze.png</tvLogo>
+		<videoUrl>http://canli.tvden.com.tr/hls/live.m3u8</videoUrl>
+	</tv>
+	<tv id="213">
+		<tvName>TVEm</tvName>
+		<tvLogo>https://i.imgur.com/kKdXoXx.png</tvLogo>
+		<videoUrl>https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="214">
+		<tvName>TVNet</tvName>
+		<tvLogo>https://i.imgur.com/NTWLhuL.png</tvLogo>
+		<videoUrl>https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8</videoUrl>
+	</tv>
+	<tv id="215">
+		<tvName>UcanKusTV</tvName>
+		<tvLogo>https://i.imgur.com/4j8WrIu.png</tvLogo>
+		<videoUrl>https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8</videoUrl>
+	</tv>
+	<tv id="216">
+		<tvName>UlkeTV</tvName>
+		<tvLogo>https://i.imgur.com/wdWR7Qk.png</tvLogo>
+		<videoUrl>https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8</videoUrl>
+	</tv>
+	<tv id="217">
+		<tvName>UlusalKanal</tvName>
+		<tvLogo>https://i.imgur.com/EwSg612.png</tvLogo>
+		<videoUrl>https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8</videoUrl>
+	</tv>
+	<tv id="218">
+		<tvName>UniversiteTV</tvName>
+		<tvLogo>https://i.imgur.com/KeauaSh.png</tvLogo>
+		<videoUrl>https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8</videoUrl>
+	</tv>
+	<tv id="219">
+		<tvName>UUTV1</tvName>
+		<tvLogo>https://i.imgur.com/H5kOQz5.png</tvLogo>
+		<videoUrl>https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="220">
+		<tvName>UUTV2</tvName>
+		<tvLogo>https://i.imgur.com/FjFjdY5.png</tvLogo>
+		<videoUrl>https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="221">
+		<tvName>Vizyon58TV</tvName>
+		<tvLogo>https://i.imgur.com/tITBc59.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="222">
+		<tvName>VTV</tvName>
+		<tvLogo>https://i.imgur.com/o26IDy4.png</tvLogo>
+		<videoUrl>https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8</videoUrl>
+	</tv>
+	<tv id="223">
+		<tvName>VuslatTV</tvName>
+		<tvLogo>https://i.imgur.com/5AiUlIJ.png</tvLogo>
+		<videoUrl>http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8</videoUrl>
+	</tv>
+	<tv id="224">
+		<tvName>WeatherSpyEurope</tvName>
+		<tvLogo>https://i.imgur.com/KIEKOt1.png</tvLogo>
+		<videoUrl>https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8</videoUrl>
+	</tv>
+	<tv id="225">
+		<tvName>WomanTV</tvName>
+		<tvLogo>https://i.imgur.com/f2zGoV3.png</tvLogo>
+		<videoUrl>https://embedlp.becdn.net/womantv.m3u8</videoUrl>
+	</tv>
+	<tv id="226">
+		<tvName>YOLTV</tvName>
+		<tvLogo>https://i.imgur.com/rTBX6lS.png</tvLogo>
+		<videoUrl>https://stream.yol.tv:9443/medialive/yol.m3u8</videoUrl>
+	</tv>
+</data-set>
